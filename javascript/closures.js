@@ -1,8 +1,8 @@
 
 /* Closures are when you have a function in a function.
- *  - function stack frame is "kept in memory"
- *  - functions variables are linked to closure
- *  - functions created in the same closure share local variables
+ *  - function stack frame are "kept in memory"
+ *  - functions variables are linked to closure in which it was created
+ *  - therefore functions created in the same closure share local variables (for loop example)
  */
 
 function counter(){

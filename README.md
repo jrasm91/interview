@@ -13,7 +13,7 @@ Interview practice problems, notes, links, etc
 ## General Notes
 
 ## JS
-+ Closures are functions created within functions. Variables belong to the closure that they were created in.
++ Closure: a `function` created within `a function`. Variables belong to the closure that they were created in.
 
 ## CSS
 

@@ -3,6 +3,13 @@ Interview practice problems, notes, links, etc
 
 ## General Notes
 
+## Javascript
++ Closures are functions created within functions. Variables belong to the closure that they were created in.
+
+## CSS
+
+## HTML
+
 ## Linked Lists
 + Traversing, Inserting, Deleting
 + Always test for the end of a linked list while traversing

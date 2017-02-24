@@ -22,6 +22,13 @@ Interview practice problems, notes, links, etc
 + **quirks**: old browser behavior, **full standards**: html/css spec, **almost standards**: few quirks still implemented
 + `XHTML` - xml + html, inline css and javascript will often violate XHTML spec.
 + `lang` attribute can used to let the browser know what language is present in a page (or in a specific element).
++ `i18next` is perfect for strings that can be translated in javascript.
++ Language considerations: `dir="rtl"`, `font-size`, character encodings, length of words (spacing)
++ `data-*` attributes can be used for custom attributes, and allow data to pass between HTML and DOM via script or css.
++ `html5` is built on improved elements, markup, video, audio, javascript API, gelolocation API, webworker, data storage API, and also specifies how to handle invalid markup.
++ `cookie` - http header sent with every request, key values pairs
++ 'localStorage` - 
+
 
 ## Linked Lists
 + Traversing, Inserting, Deleting

@@ -1,6 +1,15 @@
 # interview
 Interview practice problems, notes, links, etc
 
+## Table of Contents
+  1. [General Notes](#general-notes)
+  1. [JS](#js)
+  1. [CSS](#css)
+  1. [HTML](#html)
+  1. [Linked Lists](#linked-lists)
+  1. [Trees / Graphs](#trees--graphs)
+
+
 ## General Notes
 
 ## Javascript

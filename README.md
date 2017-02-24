@@ -27,8 +27,10 @@ Interview practice problems, notes, links, etc
 + `data-*` attributes can be used for custom attributes, and allow data to pass between HTML and DOM via script or css.
 + `html5` is built on improved elements, markup, video, audio, javascript API, gelolocation API, webworker, data storage API, and also specifies how to handle invalid markup.
 + `cookie` - http header sent with every request, key values pairs
-+ 'localStorage` - 
-
++ `localStorage` - persists until cleared/deleted.
++ `sessionStorage` - persists after page refresh, but s cleared why window/tab is closed.
++ `<script async>` - Execute script when available, without blocking
++ `<script defer>` - Defer script execution.
 
 ## Linked Lists
 + Traversing, Inserting, Deleting

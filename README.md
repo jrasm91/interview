@@ -18,6 +18,10 @@ Interview practice problems, notes, links, etc
 ## CSS
 
 ## HTML
++ `doctype` - indicates that the page is using HTML5.
++ quirks: old browser behavior, full standards: html/css spec, almost standards: few quirks still implemented
++ `XHTML` - xml + html, inline css and javascript will often violate XHTML spec.
++ `lang` attribute can used to let the browser know what language is present in a page (or in a specific element).
 
 ## Linked Lists
 + Traversing, Inserting, Deleting
